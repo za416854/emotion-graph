@@ -8,7 +8,7 @@ pip install transformers neo4j
 or 
 pip install -r requirements.txt
 
-create a neo4j database 
+create a neo4j database, go to the bworser version then set up the db username and password
 
 run python backend/app.py
 then go to postman

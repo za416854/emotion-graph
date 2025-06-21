@@ -5,3 +5,5 @@
 
 # Before starts project
 pip install transformers neo4j
+or 
+pip install -r requirements.txt
